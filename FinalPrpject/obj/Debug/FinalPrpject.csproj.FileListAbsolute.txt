@@ -1,0 +1,107 @@
+C:\Users\Amir\source\repos\FinalPrpject\FinalPrpject\bin\Debug\FinalPrpject.exe.config
+C:\Users\Amir\source\repos\FinalPrpject\FinalPrpject\bin\Debug\FinalPrpject.exe
+C:\Users\Amir\source\repos\FinalPrpject\FinalPrpject\bin\Debug\FinalPrpject.pdb
+C:\Users\Amir\source\repos\FinalPrpject\FinalPrpject\bin\Debug\EntityFramework.dll
+C:\Users\Amir\source\repos\FinalPrpject\FinalPrpject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir\source\repos\FinalPrpject\FinalPrpject\bin\Debug\EntityFramework.xml
+C:\Users\Amir\source\repos\FinalPrpject\FinalPrpject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir\source\repos\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.csproj.AssemblyReference.cache
+C:\Users\Amir\source\repos\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.Form1.resources
+C:\Users\Amir\source\repos\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.Properties.Resources.resources
+C:\Users\Amir\source\repos\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.csproj.GenerateResource.cache
+C:\Users\Amir\source\repos\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.csproj.CoreCompileInputs.cache
+C:\Users\Amir\source\repos\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.csproj.CopyComplete
+C:\Users\Amir\source\repos\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.exe
+C:\Users\Amir\source\repos\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.pdb
+C:\Users\Amir\source\repos\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.Login.resources
+C:\Users\Amir\source\repos\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.FormCategories.resources
+C:\Users\Amir\source\repos\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.FormRepostriys.resources
+C:\Users\Amir\source\repos\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.FormItems.resources
+C:\Users\Amir\source\repos\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.Adduser.resources
+C:\Users\Amir\source\repos\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.changePassword.resources
+C:\Users\Amir\source\repos\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.Migrations.init.resources
+C:\Users\Amir\source\repos\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.Migrations.init1.resources
+C:\Users\Amir\source\repos\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.Migrations.init2.resources
+E:\PC#\FinalPrpject\FinalPrpject\FinalPrpject\bin\Debug\FinalPrpject.exe.config
+E:\PC#\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.exe
+E:\PC#\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.pdb
+E:\PC#\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.csprojResolveAssemblyReference.cache
+E:\PC#\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.Adduser.resources
+E:\PC#\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.changePassword.resources
+E:\PC#\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.Form1.resources
+E:\PC#\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.FormCategories.resources
+E:\PC#\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.FormItems.resources
+E:\PC#\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.FormRepostriys.resources
+E:\PC#\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.Login.resources
+E:\PC#\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.Migrations.init.resources
+E:\PC#\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.Migrations.init1.resources
+E:\PC#\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.Migrations.init2.resources
+E:\PC#\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.Properties.Resources.resources
+E:\PC#\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.csproj.GenerateResource.Cache
+E:\PC#\FinalPrpject\FinalPrpject\FinalPrpject\bin\Debug\FinalPrpject.exe
+E:\PC#\FinalPrpject\FinalPrpject\FinalPrpject\bin\Debug\FinalPrpject.pdb
+E:\PC#\FinalPrpject\FinalPrpject\FinalPrpject\bin\Debug\EntityFramework.dll
+E:\PC#\FinalPrpject\FinalPrpject\FinalPrpject\bin\Debug\EntityFramework.SqlServer.dll
+E:\PC#\FinalPrpject\FinalPrpject\FinalPrpject\bin\Debug\EntityFramework.xml
+E:\PC#\FinalPrpject\FinalPrpject\FinalPrpject\bin\Debug\EntityFramework.SqlServer.xml
+G:\iti 3 months\project\c# windows form\last uppp\FinalPrpject (1)\FinalPrpject\FinalPrpject\FinalPrpject\bin\Debug\FinalPrpject.exe.config
+G:\iti 3 months\project\c# windows form\last uppp\FinalPrpject (1)\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.exe
+G:\iti 3 months\project\c# windows form\last uppp\FinalPrpject (1)\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.pdb
+G:\iti 3 months\project\c# windows form\last uppp\FinalPrpject (1)\FinalPrpject\FinalPrpject\FinalPrpject\bin\Debug\FinalPrpject.exe
+G:\iti 3 months\project\c# windows form\last uppp\FinalPrpject (1)\FinalPrpject\FinalPrpject\FinalPrpject\bin\Debug\FinalPrpject.pdb
+G:\iti 3 months\project\c# windows form\last uppp\FinalPrpject (1)\FinalPrpject\FinalPrpject\FinalPrpject\bin\Debug\EntityFramework.dll
+G:\iti 3 months\project\c# windows form\last uppp\FinalPrpject (1)\FinalPrpject\FinalPrpject\FinalPrpject\bin\Debug\EntityFramework.SqlServer.dll
+G:\iti 3 months\project\c# windows form\last uppp\FinalPrpject (1)\FinalPrpject\FinalPrpject\FinalPrpject\bin\Debug\EntityFramework.xml
+G:\iti 3 months\project\c# windows form\last uppp\FinalPrpject (1)\FinalPrpject\FinalPrpject\FinalPrpject\bin\Debug\EntityFramework.SqlServer.xml
+G:\iti 3 months\project\c# windows form\last uppp\FinalPrpject (1)\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.csprojResolveAssemblyReference.cache
+G:\iti 3 months\project\c# windows form\last uppp\FinalPrpject (1)\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.Adduser.resources
+G:\iti 3 months\project\c# windows form\last uppp\FinalPrpject (1)\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.changePassword.resources
+G:\iti 3 months\project\c# windows form\last uppp\FinalPrpject (1)\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.Form1.resources
+G:\iti 3 months\project\c# windows form\last uppp\FinalPrpject (1)\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.FormCategories.resources
+G:\iti 3 months\project\c# windows form\last uppp\FinalPrpject (1)\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.FormItems.resources
+G:\iti 3 months\project\c# windows form\last uppp\FinalPrpject (1)\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.FormRepostriys.resources
+G:\iti 3 months\project\c# windows form\last uppp\FinalPrpject (1)\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.Login.resources
+G:\iti 3 months\project\c# windows form\last uppp\FinalPrpject (1)\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.Properties.Resources.resources
+G:\iti 3 months\project\c# windows form\last uppp\FinalPrpject (1)\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.csproj.GenerateResource.Cache
+G:\iti 3 months\project\c# windows form\last uppp\FinalPrpject (1)\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.Migrations.init.resources
+C:\Users\Amir\Downloads\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\bin\Debug\FinalPrpject.exe.config
+C:\Users\Amir\Downloads\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\bin\Debug\FinalPrpject.exe
+C:\Users\Amir\Downloads\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\bin\Debug\FinalPrpject.pdb
+C:\Users\Amir\Downloads\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\bin\Debug\EntityFramework.dll
+C:\Users\Amir\Downloads\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amir\Downloads\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\bin\Debug\EntityFramework.xml
+C:\Users\Amir\Downloads\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amir\Downloads\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.csproj.AssemblyReference.cache
+C:\Users\Amir\Downloads\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.Adduser.resources
+C:\Users\Amir\Downloads\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.changePassword.resources
+C:\Users\Amir\Downloads\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.Form1.resources
+C:\Users\Amir\Downloads\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.FormCategories.resources
+C:\Users\Amir\Downloads\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.FormItems.resources
+C:\Users\Amir\Downloads\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.FormRepostriys.resources
+C:\Users\Amir\Downloads\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.Login.resources
+C:\Users\Amir\Downloads\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.Properties.Resources.resources
+C:\Users\Amir\Downloads\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.csproj.GenerateResource.cache
+C:\Users\Amir\Downloads\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.csproj.CoreCompileInputs.cache
+C:\Users\Amir\Downloads\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.csproj.CopyComplete
+C:\Users\Amir\Downloads\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.exe
+C:\Users\Amir\Downloads\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.pdb
+C:\Users\Soltan\Downloads\last\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\bin\Debug\FinalPrpject.exe.config
+C:\Users\Soltan\Downloads\last\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.exe
+C:\Users\Soltan\Downloads\last\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.pdb
+C:\Users\Soltan\Downloads\last\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\bin\Debug\FinalPrpject.exe
+C:\Users\Soltan\Downloads\last\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\bin\Debug\FinalPrpject.pdb
+C:\Users\Soltan\Downloads\last\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\bin\Debug\EntityFramework.dll
+C:\Users\Soltan\Downloads\last\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Soltan\Downloads\last\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\bin\Debug\EntityFramework.xml
+C:\Users\Soltan\Downloads\last\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Soltan\Downloads\last\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.csprojResolveAssemblyReference.cache
+C:\Users\Soltan\Downloads\last\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.Adduser.resources
+C:\Users\Soltan\Downloads\last\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.changePassword.resources
+C:\Users\Soltan\Downloads\last\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.Form1.resources
+C:\Users\Soltan\Downloads\last\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.FormCategories.resources
+C:\Users\Soltan\Downloads\last\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.FormItems.resources
+C:\Users\Soltan\Downloads\last\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.FormRepostriys.resources
+C:\Users\Soltan\Downloads\last\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.Login.resources
+C:\Users\Soltan\Downloads\last\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.Properties.Resources.resources
+C:\Users\Soltan\Downloads\last\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.csproj.GenerateResource.Cache
+C:\Users\Soltan\Downloads\last\FinalPrpject\FinalPrpject\FinalPrpject\FinalPrpject\obj\Debug\FinalPrpject.Migrations.init.resources
